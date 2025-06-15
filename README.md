@@ -1,6 +1,6 @@
-# LLM Engineering - Master AI and LLMs
+# LLM Engineering - Master AI and LLMs (Course by Ed Donner)
 
-## Your 8 week journey to proficiency starts today
+## 8 week journey to LLM Proficiency
 
 ![Voyage](voyage.jpg)
 
